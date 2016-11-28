@@ -4,4 +4,4 @@ I came across this book while browsing through the wooden shelves in in the hote
 
 Oh! I see you're getting bored. Very well, sir. I'll leave it you then. I hope you enjoy the book, sir.  
 
-Ah, I forgot to wish you. Happy birthday!:)
+Ah, I forgot to tell you something. You'll find it when you open the other link, sir.
