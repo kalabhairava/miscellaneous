@@ -66,5 +66,5 @@ A passionate web developer with experience in working on large scale AngularJS a
 -	Recipient of Merit Certificate for being in **top 1%** in the country in CBSE 10th Examination, 2010
 -	Awarded INSPIRE Scholarship for being in **top 1%** in the country in CBSE 12th Examination, 2012
 -	Represented my school, JNV Chitradurga in Regional Science Congress held at University of Hyderabad, 2010
--	Participated CSIR Programme For Youth On Leadership In Science held at CFTRI, Mysuru in 2011 (Participants were top 50 students from the state of Karnataka)
+-	Participated in CSIR Programme For Youth On Leadership In Science held at CFTRI, Mysuru in 2011 (Participants were top 50 students from the state of Karnataka)
 -	Recipient of MHRD Scholarship
