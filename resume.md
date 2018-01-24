@@ -30,7 +30,7 @@ A passionate web developer with experience in working on large scale AngularJS a
   * [Source Code](https://github.com/kalabhairava/hackernews-clone)
 
 - Weather App
-  * A simple weather app to get my hands dirty with asynchronous programming in JavaScript.
+  * A simple weather app to get my hands dirty with asynchronous programming in JavaScript. Built using axios, request and yargs npm moduels.
   * [Source Code](https://github.com/kalabhairava/weather-app)
   
 - JS Monk
@@ -38,7 +38,7 @@ A passionate web developer with experience in working on large scale AngularJS a
   * [Source Code](https://github.com/kalabhairava/js-monk)
   
 - Note App
-  * A command line note app to understand NodeJS fundamentals.
+  * A command line note app to understand NodeJS fundamentals. 
   * [Source Code](https://github.com/kalabhairava/note-app)
   
 - [Other small projects](https://github.com/kalabhairava?tab=repositories)
@@ -49,6 +49,7 @@ A passionate web developer with experience in working on large scale AngularJS a
 
 - Translated complex wireframes into semantic HTML web pages
 - Worked on making existing web pages responsive using Twitter Bootstrap
+- Gave a talk on 'Building your own Bootstrap: Fundamentals of Responsive Web Design' in Knowledge Exchange Forum at the company. ([Code used in demo](https://github.com/kalabhairava/responsive-web-design-demo))
 - Created a Postman Collection that saved a lot of time for developers while testing RESTful API services
 - Mentored junior members to integrate seamlessly into the team
 - Collaborated effectively with teams spread across countries
