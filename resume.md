@@ -28,6 +28,11 @@ A passionate web developer with experience in working on large scale AngularJS a
   * A Hacker News clone built using plain React, native fetch to get data from Hacker News Search API powered by Algolia. Live app deployed on Heroku.
   * [Live App](https://hacker-news-clone-hn.herokuapp.com/)
   * [Source Code](https://github.com/kalabhairava/hackernews-clone)
+  
+- Counter App
+  * Built using React and Redux.
+  * [Live App](https://redux-counter-app.herokuapp.com/)
+  * [Source Code](https://github.com/kalabhairava/counter-app)
 
 - Weather App
   * A simple weather app to get my hands dirty with asynchronous programming in JavaScript. Built using axios, request and yargs npm moduels.
