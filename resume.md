@@ -6,8 +6,9 @@ A passionate web developer with experience in working on large scale AngularJS a
 
 ## Technical Skills
 ### Languages, Frameworks, and Tools
-- JavaScript, ReactJS, AngularJS, Java, C, C++
-- HTML, CSS, Less, Bootstrap
+- JavaScript, ReactJS, Redux, AngularJS
+- Java, C, C++
+- HTML, CSS, Less, SCSS, Bootstrap, Flexbox
 - JSX, Babel
 - Git, NPM, Yarn, ESLint
 - Karma, Jasmine
