@@ -10,6 +10,7 @@ A passionate web developer with experience in working on large scale AngularJS a
 - Java, C, C++
 - HTML, CSS, Less, SCSS, Bootstrap, Flexbox
 - JSX, Babel
+- Webpack
 - Git, NPM, Yarn, ESLint
 - Karma, Jasmine
 - NodeJS, ExpressJS
