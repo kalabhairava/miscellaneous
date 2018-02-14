@@ -30,6 +30,16 @@ A passionate web developer with experience in working on large scale data-driven
   * A Hacker News clone built using plain React, native fetch to get data from Hacker News Search API powered by Algolia. Live app deployed on Heroku.
   * [Live App](https://hacker-news-clone-hn.herokuapp.com/)
   * [Source Code](https://github.com/kalabhairava/hackernews-clone)
+
+- Decide it for me App
+  * Built using React, Webpack, Babel, ESLint, SCSS, and Flexbox.
+  * Lets the user enter some options they are confused with, and selects a random option (call it fate, if you will :P)
+  * [Live App](https://decide-it-for-me-app.herokuapp.com/)
+  * [Source Code](https://github.com/kalabhairava/indecision-app)
+
+- Minimalistic React Boilerplate
+  * A minimalistic boilerplate for React projects with configuration for Webpack, Bable, ESLint. Supports SCSS out of the box.
+  * [Source Code](https://github.com/kalabhairava/react-boilerplate)
   
 - Counter App
   * Built using React and Redux.
