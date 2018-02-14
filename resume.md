@@ -38,7 +38,7 @@ A passionate web developer with experience in working on large scale data-driven
   * [Source Code](https://github.com/kalabhairava/indecision-app)
 
 - Minimalistic React Boilerplate
-  * A minimalistic boilerplate for React projects with configuration for Webpack, Bable, ESLint. Supports SCSS out of the box.
+  * A minimalistic boilerplate for React projects with configuration for Webpack, Babel, and ESLint. Supports SCSS out of the box.
   * [Source Code](https://github.com/kalabhairava/react-boilerplate)
   
 - Counter App
