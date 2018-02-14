@@ -2,16 +2,16 @@
 +91-7406130538 | manjunathad13@gmail.com | [Github](https://github.com/kalabhairava) | [LinkedIn](https://www.linkedin.com/in/manjunatha-d-709b86125/)
 
 ## Summary
-A passionate web developer with experience in working on large scale AngularJS app, and developing responsive web pages. Known to be a quick learning, super-focused developer delivering high quality code consistently. Loves JavaScript.  Bookworm, easy going fun-to-work-with guy. Proficient in JavaScript, Git, Responsive Web Design. Learning React was fun, now looking to get paid while having fun with it.
+A passionate web developer with experience in working on large scale data-driven AngularJS app, and developing responsive web pages. Known to be a quick learning, super-focused developer delivering high quality code consistently. Loves JavaScript.  Bookworm, easy going fun-to-work-with guy. Proficient in JavaScript (including the new ES6 features), React, Redux, Git, Configuring Webpack, Babel, ESLint, and Responsive Web Design. 
 
 ## Technical Skills
 ### Languages, Frameworks, and Tools
-- JavaScript, ReactJS, Redux, AngularJS
-- Java, C, C++
-- HTML, CSS, Less, SCSS, Bootstrap, Flexbox
-- JSX, Babel
-- Webpack
-- Git, NPM, Yarn, ESLint
+- JavaScript (good with ES6), ReactJS, Redux
+- Webpack, Babel, ESLint
+- AngularJS (1.x)
+- HTML, CSS, Less, SCSS, Bootstrap, Flexbox, BEM
+- Core Java
+- Git, NPM, Yarn
 - Karma, Jasmine
 - NodeJS, ExpressJS
 - Postman
